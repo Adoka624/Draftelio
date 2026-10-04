@@ -1,0 +1,19 @@
+{
+  "id": "business",
+  "name": "Сайт компании",
+  "description": "Услуги, контакты и блоки для малого бизнеса.",
+  "instructions": "INSTRUCTIONS.md",
+  "skills": [
+    {
+      "id": "services",
+      "name": "Услуги и контакты",
+      "file": "skills/services/SKILL.md"
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Контакты компании",
+      "html": "<section id=\"контакты\" style=\"padding:48px 24px;background:#f5f7fc\"><h2>Свяжитесь с нами</h2><p>Добавьте сюда настоящий телефон, почту и адрес компании.</p><p><strong>Телефон:</strong> укажите номер</p><p><strong>Почта:</strong> укажите адрес</p></section>"
+    }
+  ]
+}

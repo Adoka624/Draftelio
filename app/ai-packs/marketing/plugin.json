@@ -1,0 +1,28 @@
+{
+  "id": "marketing",
+  "name": "Лендинги",
+  "description": "Первый экран, преимущества, тарифы и продающий текст без выдуманных обещаний.",
+  "instructions": "INSTRUCTIONS.md",
+  "skills": [
+    {
+      "id": "copy",
+      "name": "Тексты для сайта",
+      "file": "skills/copy/SKILL.md"
+    },
+    {
+      "id": "landing",
+      "name": "Структура лендинга",
+      "file": "skills/landing/SKILL.md"
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Первый экран лендинга",
+      "html": "<section style=\"padding:clamp(32px,7vw,90px) 24px;background:#edf2ff;text-align:center\"><h1 style=\"font-size:clamp(32px,5vw,60px);margin:0 0 20px\">Расскажите о своём предложении</h1><p style=\"max-width:620px;margin:0 auto 28px;font-size:20px\">Опишите, какую задачу клиента вы решаете.</p><a href=\"#контакты\" style=\"display:inline-block;background:#315bea;color:white;padding:14px 24px;border-radius:8px;text-decoration:none\">Обсудить проект</a></section>"
+    },
+    {
+      "name": "Три преимущества",
+      "html": "<section style=\"padding:48px 24px\"><h2>Почему выбирают нас</h2><div style=\"display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr));gap:20px\"><article style=\"padding:24px;background:#f5f7fc;border-radius:12px\"><h3>Преимущество 1</h3><p>Укажите подтверждённую пользу для клиента.</p></article><article style=\"padding:24px;background:#f5f7fc;border-radius:12px\"><h3>Преимущество 2</h3><p>Расскажите об условиях работы.</p></article><article style=\"padding:24px;background:#f5f7fc;border-radius:12px\"><h3>Преимущество 3</h3><p>Объясните, что входит в услугу.</p></article></div></section>"
+    }
+  ]
+}

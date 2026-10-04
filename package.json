@@ -1,0 +1,10 @@
+{
+  "name": "draftelio-checks",
+  "private": true,
+  "scripts": {
+    "test:ui": "node run-ui-tests.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.58.2"
+  }
+}

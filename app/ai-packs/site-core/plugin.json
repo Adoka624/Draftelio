@@ -1,0 +1,34 @@
+{
+  "id": "site-core",
+  "name": "Основа сайта",
+  "description": "Адаптивная вёрстка, оформление, доступность, SEO и проверка результата.",
+  "instructions": "INSTRUCTIONS.md",
+  "skills": [
+    {
+      "id": "layout",
+      "name": "Адаптивная вёрстка",
+      "file": "skills/layout/SKILL.md"
+    },
+    {
+      "id": "typography",
+      "name": "Цвета и типографика",
+      "file": "skills/typography/SKILL.md"
+    },
+    {
+      "id": "accessibility",
+      "name": "Доступность",
+      "file": "skills/accessibility/SKILL.md"
+    },
+    {
+      "id": "seo",
+      "name": "SEO и структура",
+      "file": "skills/seo/SKILL.md"
+    },
+    {
+      "id": "quality",
+      "name": "Проверка перед результатом",
+      "file": "skills/quality/SKILL.md"
+    }
+  ],
+  "blocks": []
+}

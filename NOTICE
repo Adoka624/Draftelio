@@ -1,0 +1,16 @@
+Draftelio
+Modified desktop application based on VvvebJs.
+VvvebJs: Copyright 2017 Ziadin Givan, Apache License 2.0.
+https://github.com/givanz/VvvebJs
+
+Changes include Electron integration, Russian localization, Orbit interface,
+project management, visual block workshop, editing modes and AI integration.
+
+Third-party libraries remain under their original licenses.
+Bootstrap, Popper, CodeMirror, Coloris, AOS, Swiper, Bootstrap Colorpicker: MIT.
+JSZip: distributed under its MIT license option.
+Autocomplete: Copyright 2008 Ziadin Givan, LGPL-3.0-or-later;
+editable JavaScript source is included in app/web/libs/autocomplete.
+License texts are in app/licenses. Icon and font licenses are also retained
+beside their original assets in app/web/resources and app/web/demo.
+Electron and Chromium notices accompany the Windows distribution.
